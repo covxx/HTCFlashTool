@@ -1,0 +1,24 @@
+@CovXX
+HTC DNA Flash help program
+N00b free ~
+
+Version .05
+
+Changelog: 
+.03
+Added .zip flashing 
+included elkays kernel 
+Steps before flashing
+
+1. Have a boot.img or zip you'd like to flash in the tools folder	
+        IF your flashing a kernel it must be named boot.img
+	IF your flashing a .zip it must be named "flash.zip" 
+
+2. Load up the program 
+
+3. FLASH LIKE CRAZY
+
+
+If the program dosent detect your device it will not 
+	verifythat adb debugging is on
+	
