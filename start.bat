@@ -3,14 +3,13 @@ CLS
 :MENU
 cls
 ECHO                    *************************
-ECHO                   *Rom and Kernel flashing By*
-ECHO                  *           @CovXX          *
+ECHO                   *       flashing Tool     *
+ECHO                  *           @covxx          *
 ECHO                 *******************************
 ECHO ===============================================================
 ECHO =                  What would you like to do?                 =
 ECHO ===============================================================
 ECHO.
-ECHO S-OFF!
 ECHO Rom 
 ECHO Zip
 ECHO Kernel
